@@ -9,6 +9,13 @@ Ao longo da minha carreira, desenvolvi proficiência em desenvolvimento Python, 
 Atualmente, atuo como desenvolvedor e analista de sistemas na Prefeitura de Guarulhos, onde contribuo para a otimização e inovação dos sistemas públicos.
 Também estou desenvolvendo aplicações web de forma personalizada, de acordo com o perfil e necessidade do cliente/empresa.
 
+Site de divulgação do meu perfil: www.ulissescalado.com
+
+## TRABALHOS EM DESENVOLVIMENTO
+Desenvolvimento para Associação Pró Esporte de Arujá: www.arujaproesporte.com — Nesse projeto, todo o desenvolvimento está relacionado com as ações realizadas pela associação, tanto pela divulgação, como de inscrições para eventos e projetos que os alunos/associados
+participam.
+Em breve, será realizada uma nova atualização onde inclui um espaço para divulgação de notícias, parceiros e patrocinadores.
+
 
 Sinta-se à vontade para me conectar e explorar meus projetos!
 
