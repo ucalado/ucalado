@@ -7,6 +7,8 @@ Minha jornada na área da tecnologia começou com a formação de Técnico em In
 Ao longo da minha carreira, desenvolvi proficiência em desenvolvimento Python, atuando tanto no front-end quanto no back-end. Tenho experiência em criar soluções robustas e eficientes para diferentes desafios.
 
 Atualmente, atuo como desenvolvedor e analista de sistemas na Prefeitura de Guarulhos, onde contribuo para a otimização e inovação dos sistemas públicos.
+Também estou desenvolvendo aplicações web de forma personalizada, de acordo com o perfil e necessidade do cliente/empresa.
+
 
 Sinta-se à vontade para me conectar e explorar meus projetos!
 
