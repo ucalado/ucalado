@@ -14,6 +14,7 @@ Também estou desenvolvendo aplicações web de forma personalizada, de acordo c
 ## TRABALHOS EM DESENVOLVIMENTO
 Desenvolvimento para **Associação Pró Esporte de Arujá:** www.arujaproesporte.com — Nesse projeto, todo o desenvolvimento está relacionado com as ações realizadas pela associação, tanto pela divulgação, como de inscrições para eventos e projetos que os alunos/associados
 participam.
+A aplicação, possui área de membros, onde é possível atualizar os dados cadastrados. Possui uma área de administração que serve como núcleo da aplicação, possibilitando todo controle dos cadastros e objetos relacionados.
 Em breve, será realizada uma nova atualização onde inclui um espaço para divulgação de notícias, parceiros e patrocinadores.
 
 
